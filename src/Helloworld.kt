@@ -42,7 +42,7 @@ fun main() {
 
 println("Hi hello")
 println("Demand and supply")
-
+var name = "123"
     }
 
 }
