@@ -40,7 +40,8 @@ fun main() {
             car.abc()
         }
 
-
+println("Hi hello")
+println("Bye bad fellow")
     }
- println("This is really shit")
+
 }
