@@ -43,6 +43,7 @@ fun main() {
 println("Hi hello")
 println("Demand and supply")
 var name = "abc"
+var name = "123"
     }
 
 }
